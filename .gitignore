@@ -1,0 +1,11 @@
+# virtual environment
+.venv/
+
+# raw videos / datasets
+data/
+
+# generated outputs
+results/
+
+__pycache__/
+*.pyc
